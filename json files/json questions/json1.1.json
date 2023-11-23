@@ -1,0 +1,31 @@
+[
+  {
+    "question": "When are certain feelings not valid?",
+    "answers": [
+      "When they involve thoughts that are mean towards others",
+      "Never",
+      "If they are really small annoyances that can go away within a few minutes"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "If a feeling exists, then it's valid. If the feeling is hurtful towards others, then it might be best not to share it but any feeling is valid. You can decide to share it or not."
+  },
+  {
+    "question": "How should I help someone else feel validated?",
+    "answers": [
+      "Try to get them to explain their emotions very quickly to get to the root cause",
+      "Listen to them and match their energy level",
+      "Try to seem busy doing something else to make them feel like theres less pressure on them speaking."
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Matching someones energy and listening to every thing they have to say can help someone feel like what they're saying matters and has validity."
+  },
+  {
+    "question": "Validation means feeling like what you have to say matters and can be understood.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "People like to feel like they can connect with others. Validation is the difference between feeling like an outlier or everyone else."
+  }
+]

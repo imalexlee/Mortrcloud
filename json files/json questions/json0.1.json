@@ -1,0 +1,31 @@
+[
+  {
+    "question": "It's NEVER ok to interrupt someone",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "don't be too strict with waiting on someone to finish. something might come up that needs immediate attention and thats ok."
+  },
+  {
+    "question": "Is it ok to cut other people off if you don't mind them doing it back?",
+    "answers": [
+      "Yes",
+      "No",
+      "No in general but ask them specifically whether they feel that same way or not"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "For anyone you're not sure about, try your hardest not to interrupt even if you wouldn't necessarily mind receiving the same treatment. You can also ask whether that person is bothered by it or not to be sure."
+  },
+  {
+    "question": "Is it ok to cut off someone if you think what they're saying is wrong?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only if they're a close friend or relative"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Whether you agree with someone or not, it's best to let them finish what they have to say. It could help them be more receptive to criticism if they were allowed a chance to speak."
+  }
+]

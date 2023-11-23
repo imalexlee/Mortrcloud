@@ -1,0 +1,31 @@
+[
+  {
+    "question": "What if the other person doesn't agree to do what I ask?",
+    "answers": [
+      "Try to plead with them until they agree",
+      "look at whether your request is fair then adjust it if not",
+      "Don't ask any longer to stop the chance of an argument"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Maybe your request was a bit much. If this is the case, try again with a request that treats both parties fairly"
+  },
+  {
+    "question": "What if I accidentally word my desire in a harmful way and realize after I say it?",
+    "answers": [
+      "Try to stop the conversation since it will only go downhill from here",
+      "Go with it. It's too late to go back",
+      "Tell the other person you'd like to rephrase and try again"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Don't be too hard on yourself. If you said something that you wish was worded a bit differently, it's fine to try and rephrase it."
+  },
+  {
+    "question": "Speaking on what you want is important even if a solution is implied?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Even if what the other person should do seems obvious, saying what you specifically want is important to make sure that everyone's on the same page."
+  }
+]

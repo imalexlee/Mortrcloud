@@ -1,0 +1,36 @@
+[
+  {
+    "question": "Negatively judging someone is always bad.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "If you judge a serial killer as probably being a bad person, that's reasonable. In general, however, try to get to understand someones intentions first before judging them negatively."
+  },
+  
+  
+  
+  {
+    "question": "How do I find the cause of a specific judgement?",
+    "answers": [
+      "Think of any biases you have towards a certain situation or person and analyze how you should initially view a similar situation",
+      "Let it hit me eventually",
+      "Wait until someone else notices my judgements and points out the cause"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "If you find yourself consistently feeling negatively about a situation, think on where that stemmed from. From a negative experience in the past? A fear of the situation?"
+  },
+  
+  
+  {
+    "question": "What classifies as a justified judgement?",
+    "answers": [
+      "A judgment you make before you know anything about someone",
+      "A judgement made about someone that someone based off of gossip",
+      "A judgement based off of proven information about someone"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "You don't have to know everyone personally to make a judgement about them, but don't make a negative judgement based on first seeing someone."
+  }
+]

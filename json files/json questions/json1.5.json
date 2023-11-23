@@ -1,0 +1,32 @@
+[
+  {
+    "question": "I believe the other person did something so bad it's worth scolding, what should I do?",
+    "answers": [
+      "It's ok to then scold them for what they did",
+      "Still only speak on your emotions regarding the situation",
+      "Simply ask the other person to apologize and then forget it"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Speaking only on your emotions can help open up the other person while also giving them a clear reason to apologize."
+  },
+  {
+    "question": "How should I handle being scolded by someone after I hurt their feelings?",
+    "answers": [
+      "Stay quiet until they stop being angry",
+      "Tell them that it's not rational for them to be so angry",
+      "Ask them questions that encourage them to open up about their emotions"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Questions to ask someone who is scolding you can be formatted like such; \"Are you feeling disappointed that I wasn't at your birthday party?\""
+  },
+  {
+    "question": "I get angry pretty easily. when I'm feeling angry, how can I calm myself to portray my emotions in a non-accusatory way?",
+    "answers": [
+      "Breath slowly and steadily while visualizing something to ground yourself",
+      "Do something spontaneous like jumping or kicking something to get the anger out of your system.",
+      "Tell the other person that they're making you angry to be more open and therefore releasing anger."
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Being open is great but letting someone know they're currently making you angry can have a negative effect on the conversation. Instead try to breath slower and ground yourself by visualizing calming things to you."
+  }
+]

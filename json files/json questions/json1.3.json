@@ -1,0 +1,31 @@
+[
+  {
+    "question": "If you feel angry with someone, being open means getting angry with them",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Being open with someone does not mean scolding them. You can express your emotions in a way that doesn't attack them."
+  },
+  {
+    "question": "What should you do if someone is upset but isn't being open about how they truly feel?",
+    "answers": [
+      "Keep asking whats actually wrong until they open up",
+      "Ask them questions about how they feel to better understand",
+      "Tell them that you won't talk until they tell you the truth"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "You can ask someone \"Do you feel sad because ____ \" to help them get closer to expressing the reason they feel a certain way."
+  },
+  {
+    "question": "What should you do if someone continues to upset you after you told them how you feel?",
+    "answers": [
+      "Try to get used to the upset so it doesn't bother you as much",
+      "Try to be open about how you feel again",
+      "Tell them what you (reasonably) want and need to feel happier"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Telling someone who repeatedly hurts you only how you feel doesn't automatically put the solution in their head. Make sure to speak on what you would like and need to feel happier. This needs to be within reason."
+  }
+]

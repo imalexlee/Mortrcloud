@@ -1,0 +1,31 @@
+[
+  {
+    "question": "What do I do if a stranger says something rude to me?",
+    "answers": [
+      "Find an external factor to attribute it to like them having a bad day",
+      "Say a short rude comment back",
+      "Call out that person in front of other people"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "When someone is rude in a grocery store or traffic, it can be very hard not to take it personal, but remember that everyone has bad days. They might not handle it great but their negativity has to stem from somewhere."
+  },
+  {
+    "question": "Not taking something personally doesn't mean you shouldn't be upset by it.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "You can practice not taking things personally while still expressing the emotions it made you feel. Thats OK!"
+  },
+  {
+    "question": "What should I do if someone is consistently trying to hurt me on purpose?",
+    "answers": [
+      "Ask someone close to them to get them to stop",
+      "If able to, ask the person why they are targeting you and try to avoid them if possible",
+      "Internalize your frustration until they stop"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "There are times when you can't get away from a toxic person but if you tried having a respectful conversation with them about it and they haven't stopped, try your best to avoid them."
+  }
+]

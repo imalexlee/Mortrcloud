@@ -1,0 +1,38 @@
+[
+  {
+    "question": "When would it be fine to change the subject without adequately responding?",
+    "answers": [
+      "When something popped in your mind and you don't want to forget it",
+      "If what the other person was saying wasn't that important",
+      "If it is something that needs immediate attention like being late for something"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Be sure to respect what the other person is saying even if you want to say something really badly. You can also ask them to remind you about something before you respond to them."
+  },
+  
+  
+  
+  {
+    "question": "What should I do if the OTHER person abruptly changed the subject?",
+    "answers": [
+      "respond to them, then ask for their thoughts on your topic",
+      "don't respond to what they said and ask for their thoughts on your topic",
+      "get quiet to show that you're bothered so they know not to do that next time"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "While it might bother you if someone else changes the subject without responding to you, still respond to them before asking for their thoughts on what you said. It's a polite way of saying \"Hey what about me!\""
+  },
+  
+  
+  
+  {
+    "question": "What's best to do when the other person changes the subject while they're speaking?",
+    "answers": [
+      "Only respond to the first topic",
+      "Only respond to the second topic",
+      "Acknowledge the first topic briefly before responding to the new topic"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "To be safe, try not to ignore one of the things the person was talking about. It's easy to briefly respond to their original topic before a lengthier response for the new one."
+  }
+]

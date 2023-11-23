@@ -1,0 +1,31 @@
+[
+  {
+    "question": "A reasonable request is a request that will adequately help you feel better",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "A reasonable request means that the request can be reasonably accomplished by the person being asked to do it."
+  },
+  {
+    "question": "Which of the following is a reasonable request?",
+    "answers": [
+      "Asking someone to stop hanging out with their friends so they can hang with you instead",
+      "Asking someone to make it to your birthday party during their family trip",
+      "Asking your roommate to split the chores in the home"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "A reasonable request is fair for both people."
+  },
+  {
+    "question": "What if I agree to an unreasonable request and realize it's unreasonable later?",
+    "answers": [
+      "Try to fulfill it anyway because you said you would do it",
+      "Tell the other person that you don't think that you can meet their request and ask to adjust",
+      "Try to avoid the request until the other person realizes it's unreasonable"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Don't flake on what you said, instead try to go over and adjust the request so that both parties are satisfied."
+  }
+]

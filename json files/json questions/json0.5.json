@@ -1,0 +1,38 @@
+[
+  {
+    "question": "When someone talks about an experience, is responding only with your own similar experience the best response?",
+    "answers": [
+      "Yes only if your experience was pretty much exactly the same",
+      "Yes because you're still on topic so it still respects what the other person was saying",
+      "No because you can talk about your experience after you tell them your feelings on their experience"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Even if you have a smilier experience as someone else, make sure to still give them a response that is unique to THEM"
+  },
+  
+  
+  
+  {
+    "question": "Why can it be good to bring up a personal experience?",
+    "answers": [
+      "It makes you look more interesting",
+      "It can help to connect with the other person more",
+      "For the most part, you shouldn't talk about yourself at all when someone is telling you an experience"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Sharing your own personal experiences can help you and the other person feel more connected. Just don't only share your experiences."
+  },
+  
+  
+  
+  {
+    "question": "When meeting someone new, wouldn’t bringing up personal experiences a lot help them get to know me better?",
+    "answers": [
+      "Yes but not fully engaging with what they’re saying makes you miss who they are.",
+      "Yes because they can learn many facts about you quickly",
+      "No because telling someone personal experiences doesn’t help people get to know you better "
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Sharing your own experiences helps others get to know you but make sure you engage with the other person to get their personality as well"
+  }
+]

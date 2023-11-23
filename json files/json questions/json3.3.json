@@ -1,0 +1,31 @@
+[
+  {
+    "question": "If someone gets mad at you, you should never get defensive",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "It's understandable to get defensive when someone's mad at you, but try hard to understand the intention behind what they're saying and whether they're trying to hurt you or not."
+  },
+  {
+    "question": "How can you make your intentions clearer?",
+    "answers": [
+      "Explain why you're justified in being mad",
+      "Tell the other person what caused you to be upset",
+      "Let the other person figure it out"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "For anyone you're not sure about, try your hardest not interrupt even if you wouldn't necessarily mind receiving the same treatment. You can also ask whether that person is bothered by it or not to be sure."
+  },
+  {
+    "question": "Should you still focus on someones intentions if they start getting rude?",
+    "answers": [
+      "No, you should stop the conversation",
+      "Yes, just try to deal with it",
+      "Yes, tell the other person that you don't like how they're speaking to you and ask what caused them being upset"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "While it's hard to stay calm when faced with rudeness, try to break through to what the issue is."
+  }
+]

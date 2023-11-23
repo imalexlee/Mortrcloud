@@ -1,0 +1,31 @@
+[
+  {
+    "question": "What way of telling someone what you want is most harmful?",
+    "answers": [
+      "\"Can you tell me before you go out next time?\"",
+      "\"Please wash your dishes after you use them\"",
+      "\"Stop making that hurtful joke about me\""
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Someone might not be on the same page as you about something hurting you. Be sure to phrase your want in a way that isn't placing undeserved blame."
+  },
+  {
+    "question": "The other person never has the intention of hurting you on purpose",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "If someone IS explicitly malicious towards you, it's still important to voice your emotions and want's in a non-accusatory way to limit the chance of the other person simply ignoring your request."
+  },
+  {
+    "question": "Is your tone important in speaking on what you want",
+    "answers": [
+      "Yes because tone is also an important part of communicating with others in general",
+      "No as long as what you're saying is fine",
+      "No because if you're upset, the other person should understand if you have a bad tone"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Say the phrase \"Can you tell me when you leave next time?\" in a nice, then mean tone in your head. They have different connotations which are important to think about."
+  }
+]
